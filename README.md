@@ -22,3 +22,4 @@ para administrar nuestros archivos de la asignatura de Gestión
 de Redes, sirviendo además como modelo de aprendizaje de la
 aplicación y las herramientas que nos brinda el sistema.
 ~~~
+![nuevo](imagen.jpg)
