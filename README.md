@@ -1,6 +1,5 @@
 # BIENVENIDOS A MI SITIO GITHUB
-* caracteristicas importantes
-* conceptos generales
-* mis apuntes
-* mis imagenes favoritas
-<img src="https://marcianosmx.com/espectaculares-imagenes-electrizantes-animales/"/>
+[tutoriales](https://www.youtube.com/watch?v=hWglK8nWh60)
+[blogs]()
+[material de apoyo]()
+[recursos]()
