@@ -3,4 +3,4 @@
 [blogs](https://github.blog/)
 [material de apoyo](https://rogerdudler.github.io/git-guide/index.es.html)
 [recursos]()
-
+![Texto alternativo](/ruta/a/la/imagen.jpg)
