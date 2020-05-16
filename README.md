@@ -1,4 +1,5 @@
 # HOLA BIENVENIDOS A MI SITIO GITHUB
 caracteristicas importantes
-.jbsv
-.kajdfih
+conceptos generales
+mis apuntes
+mis imagenes favoritas
