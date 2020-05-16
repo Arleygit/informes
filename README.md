@@ -3,4 +3,4 @@
 [blogs](https://github.blog/)
 [material de apoyo](https://rogerdudler.github.io/git-guide/index.es.html)
 [tareas]()
-![Texto alternativo](https://www.muycomputerpro.com/2019/12/11/github-en-china)
+![](https://www.enriquedans.com/wp-content/uploads/2018/06/GitHub-Octocat.jpg)
