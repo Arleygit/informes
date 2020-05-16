@@ -12,8 +12,7 @@
 [tutoriales](https://www.youtube.com/watch?v=hWglK8nWh60)
 [blogs](https://github.blog/)
 [material de apoyo](https://rogerdudler.github.io/git-guide/index.es.html)
-[tareas de asignatura](. servidor zabbix
-. SNTP)
+[tareas de asignatura]([zabbix](https://www.zabbix.com/documentation/current/manual/installation/install_from_packages))
 ~~~
 ~~~
 ![](https://www.muycomputerpro.com/wp-content/uploads/2019/12/GitHub_en_China.jpg)
