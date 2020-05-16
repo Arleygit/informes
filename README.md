@@ -17,7 +17,7 @@
 ~~~
 ![](https://www.muycomputerpro.com/wp-content/uploads/2019/12/GitHub_en_China.jpg)
 ~~~ 
-En este entorno de trabajo de Github hemos creado un espacio
+### En este entorno de trabajo de Github hemos creado un espacio
 para administrar nuestros archivos de la asignatura de Gestión
 de Redes, sirviendo además como modelo de aprendizaje de la
 aplicación y las herramientas que nos brinda el sistema.
