@@ -10,4 +10,6 @@
 [material de apoyo](https://rogerdudler.github.io/git-guide/index.es.html)
 [tareas de asignatura]()
 ![](https://www.muycomputerpro.com/wp-content/uploads/2019/12/GitHub_en_China.jpg)
-~~~ JHSDAFGILHEKABDSHJVFEJAHSDBCJWVFGHCBSVDCGH LKAJHEIAGFILKAJDB ~~~
+~~~ 
+JHSDAFGILHEKABDSHJVFEJAHSDBCJWVFGHCBSVDCGH LKAJHEIAGFILKAJDB 
+~~~
