@@ -3,4 +3,6 @@
 [blogs](https://github.blog/)
 [material de apoyo](https://rogerdudler.github.io/git-guide/index.es.html)
 [recursos]()
-[1]:https://www.muycomputerpro.com/2019/12/11/github-en-china
+![][1]
+
+[1]: https://www.muycomputerpro.com/2019/12/11/github-en-china
