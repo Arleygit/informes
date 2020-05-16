@@ -1,5 +1,5 @@
 ---
-#                                                           BIENVENIDOS A MI SITIO GITHUB
+# BIENVENIDOS A MI SITIO GITHUB
 ---
 ## ***Universidad Militar Nueva Granada***
 ## ***Tecnologia en Electronica y Comunicaciones***
@@ -12,7 +12,8 @@
 [tutoriales](https://www.youtube.com/watch?v=hWglK8nWh60)
 [blogs](https://github.blog/)
 [material de apoyo](https://rogerdudler.github.io/git-guide/index.es.html)
-[tareas de asignatura]()
+[tareas de asignatura](. servidor zabbix
+. SNTP)
 ~~~
 ~~~
 ![](https://www.muycomputerpro.com/wp-content/uploads/2019/12/GitHub_en_China.jpg)
