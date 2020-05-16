@@ -5,4 +5,4 @@
 [recursos]()
 ![][1]
 
-[1]: https://www.muycomputerpro.com/2019/12/11/github-en-china
+[1]: 
