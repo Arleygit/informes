@@ -1,5 +1,5 @@
 ---
-(center): # BIENVENIDOS A MI SITIO GITHUB
+# (/center)BIENVENIDOS A MI SITIO GITHUB
 ---
 ## ***Universidad Militar Nueva Granada***
 ## ***Tecnologia en Electronica y Comunicaciones***
