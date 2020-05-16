@@ -11,8 +11,9 @@
 ~~~
 [tutoriales](https://www.youtube.com/watch?v=hWglK8nWh60)
 [blogs](https://github.blog/)
-[material de apoyo](https://rogerdudler.github.io/git-guide/index.es.html)
-[tareas de asignatura]()
+[Documentos de zabbix](https://www.zabbix.com/documentation/current/manual/installation/install_from_packages)
+[recursos de SNMP](https://pandorafms.com/blog/es/monitorizacion-snmp/)
+[recursos de GLPI]()
 ~~~
 ~~~
 ![](https://www.muycomputerpro.com/wp-content/uploads/2019/12/GitHub_en_China.jpg)
@@ -22,4 +23,4 @@ para administrar nuestros archivos de la asignatura de Gestión
 de Redes, sirviendo además como modelo de aprendizaje de la
 aplicación y las herramientas que nos brinda el sistema.
 ~~~
-![nuevo](carnet jpg)
+![nuevo](imagen.jpg)
