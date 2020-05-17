@@ -1,5 +1,5 @@
 ---
-# (/center)BIENVENIDOS A MI SITIO GITHUB
+# BIENVENIDOS A MI SITIO GITHUB
 ---
 ## ***Universidad Militar Nueva Granada***
 ## ***Tecnologia en Electronica y Comunicaciones***
@@ -13,7 +13,7 @@
 [blogs](https://github.blog/)
 [Documentos de zabbix](https://www.zabbix.com/documentation/current/manual/installation/install_from_packages)
 [recursos de SNMP](https://pandorafms.com/blog/es/monitorizacion-snmp/)
-[recursos de GLPI]()
+[recursos de GLPI](https://virtual2.umng.edu.co/moodle/mod/resource/view.php?id=1004181)
 ~~~
 ~~~
 ![](https://www.muycomputerpro.com/wp-content/uploads/2019/12/GitHub_en_China.jpg)
@@ -24,4 +24,4 @@ de Redes, sirviendo además como modelo de aprendizaje de la
 aplicación y las herramientas que nos brinda el sistema.
 ~~~
 ![nuevo](imagen.jpg)
-<title>madfksjgafVDLHJ<title>
+
